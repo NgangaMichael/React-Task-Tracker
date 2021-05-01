@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,cACI,2BACJ,CAEA,UACI,wBAAoC,CACpC,iBACJ","file":"main.8602e1b5.chunk.css","sourcesContent":[".taskBody.rem {\r\n    border-left: 5px solid green;\r\n}\r\n\r\n.taskBody {\r\n    background-color: rgb(248, 241, 241);\r\n    line-height: 0.7rem;\r\n}"]}

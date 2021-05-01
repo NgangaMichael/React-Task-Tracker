@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NgangaMichael/React-Task-Tracker/static/css/main.8602e1b5.chunk.css",
+    "main.js": "/NgangaMichael/React-Task-Tracker/static/js/main.5dbe3206.chunk.js",
+    "main.js.map": "/NgangaMichael/React-Task-Tracker/static/js/main.5dbe3206.chunk.js.map",
+    "runtime-main.js": "/NgangaMichael/React-Task-Tracker/static/js/runtime-main.c9c97f50.js",
+    "runtime-main.js.map": "/NgangaMichael/React-Task-Tracker/static/js/runtime-main.c9c97f50.js.map",
+    "static/js/2.f8e0676a.chunk.js": "/NgangaMichael/React-Task-Tracker/static/js/2.f8e0676a.chunk.js",
+    "static/js/2.f8e0676a.chunk.js.map": "/NgangaMichael/React-Task-Tracker/static/js/2.f8e0676a.chunk.js.map",
+    "index.html": "/NgangaMichael/React-Task-Tracker/index.html",
+    "static/css/main.8602e1b5.chunk.css.map": "/NgangaMichael/React-Task-Tracker/static/css/main.8602e1b5.chunk.css.map",
+    "static/js/2.f8e0676a.chunk.js.LICENSE.txt": "/NgangaMichael/React-Task-Tracker/static/js/2.f8e0676a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9c97f50.js",
+    "static/js/2.f8e0676a.chunk.js",
+    "static/css/main.8602e1b5.chunk.css",
+    "static/js/main.5dbe3206.chunk.js"
+  ]
+}
