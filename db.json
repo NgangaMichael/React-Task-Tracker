@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "JavaScript",
+      "date": "2021-04-28",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Python",
+      "date": "2021-04-29",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Type",
+      "date": "2021-05-27",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Kotlin",
+      "date": "2021-05-12",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "Java",
+      "date": "2021-05-04",
+      "reminder": true,
+      "id": 9
+    }
+  ]
+}
